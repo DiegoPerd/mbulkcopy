@@ -1,0 +1,13 @@
+D:\tmp\DLL\cs\SqlBulkCopySample\DllSqlBulkCopy\bin\Debug\DllSqlBulkCopy.dll
+D:\tmp\DLL\cs\SqlBulkCopySample\DllSqlBulkCopy\bin\Debug\DllSqlBulkCopy.pdb
+D:\tmp\DLL\cs\SqlBulkCopySample\DllSqlBulkCopy\obj\Debug\ResolveAssemblyReference.cache
+D:\tmp\DLL\cs\SqlBulkCopySample\DllSqlBulkCopy\obj\Debug\DllSqlBulkCopy.dll
+D:\tmp\DLL\cs\SqlBulkCopySample\DllSqlBulkCopy\obj\Debug\DllSqlBulkCopy.pdb
+D:\Temp\DllSqlBulkCopy\DllSqlBulkCopy\obj\Debug\DllSqlBulkCopy.dll
+D:\Temp\DllSqlBulkCopy\DllSqlBulkCopy\obj\Debug\DllSqlBulkCopy.pdb
+D:\Temp\DllSqlBulkCopy\DllSqlBulkCopy\bin\Debug\DllSqlBulkCopy.dll
+D:\Temp\DllSqlBulkCopy\DllSqlBulkCopy\bin\Debug\DllSqlBulkCopy.pdb
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\DllSqlBulkCopy\bin\Debug\DllSqlBulkCopy.dll
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\DllSqlBulkCopy\bin\Debug\DllSqlBulkCopy.pdb
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\DllSqlBulkCopy\obj\Debug\DllSqlBulkCopy.dll
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\DllSqlBulkCopy\obj\Debug\DllSqlBulkCopy.pdb

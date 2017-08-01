@@ -1,0 +1,14 @@
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\bin\Debug\SqlBulkCopySample.exe.config
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\bin\Debug\SqlBulkCopySample.exe
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\bin\Debug\SqlBulkCopySample.pdb
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\bin\Debug\DllSqlBulkCopy.dll
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\bin\Debug\DllSqlBulkCopy.pdb
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\obj\Debug\SqlBulkCopySample.csprojResolveAssemblyReference.cache
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\obj\Debug\SqlBulkCopySample.frmMain.resources
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\obj\Debug\SqlBulkCopySample.Properties.Resources.resources
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\obj\Debug\SqlBulkCopySample.csproj.GenerateResource.Cache
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\obj\Debug\SqlBulkCopySample.exe
+C:\Users\25191726\Documents\bulkcopy\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\obj\Debug\SqlBulkCopySample.pdb
+C:\Users\dperdices\Documents\Personal\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\bin\Debug\SqlBulkCopySample.exe.config
+C:\Users\dperdices\Documents\Personal\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\obj\Debug\SqlBulkCopySample.exe
+C:\Users\dperdices\Documents\Personal\DllSqlBulkCopy\DllSqlBulkCopy\SqlBulkCopySample\obj\Debug\SqlBulkCopySample.pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Afrechilla\Mis documentos\Visual Studio 2005\Projects\sqlbulkcopybetter\SqlBulkCopySample\DllSqlBulkCopy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Afrechilla\Mis documentos\Visual Studio 2005\Projects\sqlbulkcopybetter\SqlBulkCopySample\DllSqlBulkCopy\bin\Debug\DllSqlBulkCopy.dll
+C:\Documents and Settings\Afrechilla\Mis documentos\Visual Studio 2005\Projects\sqlbulkcopybetter\SqlBulkCopySample\DllSqlBulkCopy\bin\Debug\DllSqlBulkCopy.pdb
+C:\Documents and Settings\Afrechilla\Mis documentos\Visual Studio 2005\Projects\sqlbulkcopybetter\SqlBulkCopySample\DllSqlBulkCopy\obj\Debug\DllSqlBulkCopy.dll
+C:\Documents and Settings\Afrechilla\Mis documentos\Visual Studio 2005\Projects\sqlbulkcopybetter\SqlBulkCopySample\DllSqlBulkCopy\obj\Debug\DllSqlBulkCopy.pdb
+C:\Documents and Settings\Afrechilla\Mis documentos\Visual Studio 2005\Projects\sqlbulkcopybetter\SqlBulkCopySample\DllSqlBulkCopy\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\Documents and Settings\Afrechilla\Mis documentos\Visual Studio 2005\Projects\sqlbulkcopybetter\SqlBulkCopySample\DllSqlBulkCopy\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+C:\Documents and Settings\Afrechilla\Mis documentos\Visual Studio 2005\Projects\sqlbulkcopybetter\SqlBulkCopySample\DllSqlBulkCopy\bin\Debug\es\Microsoft.SqlServer.Replication.resources.dll
