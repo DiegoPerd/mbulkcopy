@@ -10,7 +10,7 @@ If we do not have a clustered index on source table, there is some hope, now exi
 Its logic is very simple: it scans clustered index statitics in Sql Server, or histogram in Oracle, and define balanced clusters of data. It means that it creates as many queries as threads parametrized, and those queries filter on the clustered index field trying so as to obtain the same volume of data each one. Then it fires them using the sqlbulkcopy .Net fw or oraclebulkcopy from odp.net method.
 As heaps, it "partition" the table with a determinictic function and a module (%%lockres%% in Sql Server and rowid in oracle), and launch each query in one thread.
 
-We must advice that depending on the amount of thread it is a very resource intensive process and in some cases CPU compsuntion could rise up to 100% and disk queue length may cause long waits.
+We must advice that depending on the amount of thread it is a very resource intensive process and in some cases CPU consumption could rise up to 100% and disk queue length may cause long waits.
 
 Because of this, we recommend running on a different server other than the data source and destination.
 
