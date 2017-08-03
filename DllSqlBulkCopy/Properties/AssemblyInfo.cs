@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DllSqlBulkCopy")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ibercaja")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DllSqlBulkCopy")]
-[assembly: AssemblyCopyright("© Ibercaja 2008")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
