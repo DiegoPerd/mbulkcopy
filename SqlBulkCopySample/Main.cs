@@ -192,7 +192,7 @@ namespace SqlBulkCopySample
             switch (BBDDType)
             {
 
-                case "SqlServer":
+                case "SQL Server":
                     {
                         using (SqlConnection sql = new SqlConnection(ConnectionString))
                         {
