@@ -1,5 +1,4 @@
-# mbulkcopy
-Multithreaded Bulk Copy
+# Multithreaded Bulk Copy
 
 A tool for data transfer situations, built only for theorical purposes, that may be useful to transfer a large amount of data from a SQL Server(2000 or higher) and/or Oracle (10g or higher) instance to another.
 
