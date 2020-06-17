@@ -1,6 +1,6 @@
 # Multithreaded Bulk Copy
 
-A tool for data transfer situations, built only for theorical purposes, that may be useful to transfer a large amount of data from a SQL Server(2000 or higher) and/or Oracle (10g or higher) instance to another.
+A tool for data transfer situations, built only for theorical purposes, that may be useful to transfer a large amount of data from a SQL Server(2000 or higher) and/or Oracle (10g or higher) instance to another (SQL>SQL, SQL>Oracle, Oracle>SQL and Oracle>Oracle).
 
 It is usual to copy SQL Server and/or Oracle tables from one instance to another. 
 Usually we likely decide to use the Import/Export wizard, an Integration Services package or a method to transfer data as a text file. But problems may arise if we are talking about tables with more than 300 millions of records or 30gb and more if they must be copied in a minimum time.
