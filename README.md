@@ -3,9 +3,9 @@
 A tool for data transfer situations, built only for theorical purposes, that may be useful to transfer a large amount of data from a SQL Server(2000 or higher) and/or Oracle (10g or higher) instance to another (SQL>SQL, SQL>Oracle, Oracle>SQL and Oracle>Oracle).
 
 It is usual to copy SQL Server and/or Oracle tables from one instance to another.  
-Usually we likely decide to use the SSMS Import/Export wizard, an Integration Services package or a method to transfer data as a text file. But problems may arise if we are talking about tables with more than 300 millions of records or 30gb and more if they must be copied in a minimum time.  
-If we are lucky this table may have a clustered index in Sql Server or an index with a frequency histogram in oracle and then that's the scenario where this little project play a role.  
-If we do not have a clustered index on source table, there is some hope, now exists a method (a little slower than clustered one, but a good one) to copy data from a heap table, in both Oracle and Sql Server.  
+Usually we likely decide to use the SSMS Import/Export wizard, an Integration Services package or a method to transfer data as a text file.  But problems may arise if we are talking about tables with more than 300 millions of records or 30gb and more if they must be copied in a minimum time.  
+If we are lucky this table may have a clustered index in Sql Server or an index with a frequency histogram in Oracle. That's the scenario where this little project play a role.  
+If we do not have a clustered index on source table, there is some hope, we implemented a new method (a little slower than clustered one, but a good one) to copy data from a heap table, in both Oracle and Sql Server.  
 
 Its logic is very simple: it scans clustered index statitics in Sql Server, or histogram in Oracle, and define balanced clusters of data.  
 It means that it creates as many queries as threads parametrized, and those queries filter on the clustered index field trying so as to obtain the same volume of data each one. Then it fires them using the sqlbulkcopy .Net fw or oraclebulkcopy from odp.net method.
