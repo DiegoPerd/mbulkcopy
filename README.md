@@ -1,3 +1,25 @@
+# mbulkcopy - Bulk Copy Utility
+
+## 📜 Historical Note (Archived)
+
+**This project is archived and is no longer actively maintained.**
+
+It was originally created in **2008** as a C# utility to solve performance challenges with bulk data loads between SQL Server instances, a common task for Database Administrators (DBAs). It was migrated from CodePlex to GitHub in 2014 when the original platform was discontinued.
+
+The code is preserved as an example of the kind of automation tools developed during that era.
+
+---
+
+### 🚀 Professional Evolution
+
+My work and focus have since evolved towards **Database Reliability Engineering (DBRE)**, applying software engineering principles to the challenges of data infrastructure.
+
+**To see my most recent projects, scripts, and tools, please visit my new repository:**
+
+### 👉 [DBRE-Toolkit (Coming Soon)](https://github.com/DiegoPerd/DBRE-Toolkit)
+
+---
+
 # Multithreaded Bulk Copy
 
 A tool for data transfer situations, built only for theorical purposes, that may be useful to transfer a large amount of data from a SQL Server(2000 or higher) and/or Oracle (10g or higher) instance to another (SQL>SQL, SQL>Oracle, Oracle>SQL and Oracle>Oracle).
